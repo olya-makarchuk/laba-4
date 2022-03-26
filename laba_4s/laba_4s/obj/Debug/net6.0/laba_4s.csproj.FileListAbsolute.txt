@@ -1,0 +1,15 @@
+C:\Users\olama\source\repos\laba_4s\laba_4s\bin\Debug\net6.0\laba_4s.exe
+C:\Users\olama\source\repos\laba_4s\laba_4s\bin\Debug\net6.0\laba_4s.deps.json
+C:\Users\olama\source\repos\laba_4s\laba_4s\bin\Debug\net6.0\laba_4s.runtimeconfig.json
+C:\Users\olama\source\repos\laba_4s\laba_4s\bin\Debug\net6.0\laba_4s.dll
+C:\Users\olama\source\repos\laba_4s\laba_4s\bin\Debug\net6.0\laba_4s.pdb
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.csproj.AssemblyReference.cache
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.AssemblyInfoInputs.cache
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.AssemblyInfo.cs
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.csproj.CoreCompileInputs.cache
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.dll
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\refint\laba_4s.dll
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.pdb
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\laba_4s.genruntimeconfig.cache
+C:\Users\olama\source\repos\laba_4s\laba_4s\obj\Debug\net6.0\ref\laba_4s.dll
